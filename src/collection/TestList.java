@@ -6,7 +6,11 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Vector;
+<<<<<<< HEAD
 //222
+=======
+//111
+>>>>>>> branch 'master' of https://github.com/chenchaohui111/EclipseGitProject.git
 public class TestList {
 	/**
 	 * List 特点：①有序 ②可重复
