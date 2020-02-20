@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Vector;
-
+//123
 public class TestList {
 	/**
 	 * List 特点：①有序 ②可重复
